@@ -1,10 +1,10 @@
 # Data Engineering by Example
 
-A collection of small, focused data engineering examples using Python, SQL, and Bash. The goal is to explore different data processing methods without getting bogged down in tooling or project structures, which are all important but not the focus here.  
+🚀 A collection of small, focused data engineering examples using Python, SQL, and Bash. The goal is to explore different data processing methods without getting bogged down in tooling or project structures, which are all important but not the focus here.  
 
-- 🚀 **Methods-first examples** → deliberately side-steps tooling, abstract ideas, and broader parts of the pipeline
-- 🚀 **Minimal Setup** → No global environments, each script defines its own deps.  
-- 🚀 **Easy to Run** → Each example is **self-contained** and runs using **PEP 723 + `uv`**, keeping dependencies lightweight.
+- **Methods-first examples** → deliberately side-steps tooling, abstract ideas, and broader parts of the pipeline
+- **Minimal Setup** → No global environments, each script defines its own deps.  
+- **Easy to Run** → Each example is **self-contained** and runs using **PEP 723 + `uv`**, keeping dependencies lightweight.
 
 ---
 
